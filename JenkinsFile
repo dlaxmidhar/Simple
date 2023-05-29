@@ -1,7 +1,7 @@
 pipelene{
     agent{
         docker{
-            image: 'alpine:latest'
+            image: '16-alpine'
         }
     }
     stages{
